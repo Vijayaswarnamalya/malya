@@ -1,8 +1,8 @@
 num1=int(input())
 if num1<0:
   print("invalid")
-elif:
+else:
   if num1%2==0:
     print("Even")
-  elif:
+  else:
     print("Odd")
