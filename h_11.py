@@ -1,3 +1,4 @@
+input_string=input().split(" ")
 def rever(strings):
     return [x[::-1] for x in strings]
 list1=[]
